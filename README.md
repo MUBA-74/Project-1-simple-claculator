@@ -1,2 +1,1 @@
-# Project-1-simple-claculator
-ALL PROJECTS BASED ON TYPESCRIPT &amp; NODEJS.
+# Simple Calculator project 1 using typescript, node and javascript.
